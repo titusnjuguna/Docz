@@ -59,7 +59,7 @@
     {
       "key": "text.mdx",
       "value": {
-        "name": "Documentation",
+        "name": "Intergration of Docz in vue",
         "route": "/",
         "id": "b41050a62c7968261c42f1af9a4c4d84",
         "filepath": "text.mdx",
@@ -70,24 +70,19 @@
         "menu": "",
         "headings": [
           {
-            "slug": "introduction",
-            "depth": 2,
-            "value": "Introduction"
-          },
-          {
-            "slug": "usage",
-            "depth": 2,
-            "value": "Usage"
-          },
-          {
-            "slug": "install",
-            "depth": 2,
-            "value": "Install"
+            "slug": "setting-up-vue",
+            "depth": 1,
+            "value": "Setting up Vue"
           },
           {
             "slug": "contribution",
             "depth": 2,
             "value": "Contribution"
+          },
+          {
+            "slug": "route-docz-installation",
+            "depth": 2,
+            "value": "route: /Docz-Installation"
           }
         ]
       }
